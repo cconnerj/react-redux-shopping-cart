@@ -5,7 +5,7 @@ The complexity of the shopping cart app itself is minimal so as to help us get a
 
 
 ## Setup
-
+sad
 Fork and clone down this repo.
 
 By now, you should have `create-react-app` installed on your computer via `npm`.
